@@ -1,2 +1,3 @@
-# Web framework and Jinja template rendering used by app.py
+
 Flask>=3.0,<4.0
+gunicorn>=22.0,<24.0
